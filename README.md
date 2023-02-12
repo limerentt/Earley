@@ -21,4 +21,4 @@ Coverage test:
 
 Covered lines are shown in ("__./htmlcov/index.html__").
 
-## Pleasent using!
+## Pleasant using!
